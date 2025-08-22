@@ -65,7 +65,7 @@ ORDER BY DATE_PART('year', order_date);
 - **Analytical Thinking**: Creating metrics like average sales per customer to derive business insights.
 - **Data Quality Handling**:  Filtering out NULL values in order_date to ensure valid results.
 ### Tools & Technologies
-- **SQL (PostgreSQL dialect)**:For querying and analyzing structured sales data.
+- **SQL (PostgreSQL dialect)**: For querying and analyzing structured sales data.
 - **Database-PostgreSQL**: Assuming public."gold.fact_sales" is part of a database schema.
 - **BI/Analytics Layer (Optional)**: Results could be exported into Tableau for visualization.
 - **GitHub**: For version control and showcasing the SQL scripts.
