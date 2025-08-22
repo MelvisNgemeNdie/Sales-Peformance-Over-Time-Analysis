@@ -59,3 +59,12 @@ ORDER BY DATE_PART('year', order_date);
 - **Address 2014 Drop**: Explore reasons for the sudden decline. If data is valid, this might suggest market saturation or churn.
 - **Leverage Seasonal/Yearly Trends**: Build demand forecasts for inventory & marketing planning.
 - **Customer Retention Programs**: With many new customers in 2013, focus on loyalty programs to retain them in following years.
+
+### Skills Demonstrated
+- **SQL Querying**: Writing optimized queries with SUM(), COUNT(), ROUND(), and DATE_PART().
+- **Data Aggregation & Summarization**: Generating year-level KPIs like sales, customers, and quantities.
+- **Data Transformation**: Using CTEs (WITH clause) for cleaner, modular queries.
+- **Analytical Thinking**: Creating metrics like average sales per customer to derive business insights.
+- **Data Quality Handling**:  Filtering out NULL values in order_date to ensure valid results.
+
+### Tools & Technologies
