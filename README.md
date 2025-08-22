@@ -53,18 +53,19 @@ ORDER BY DATE_PART('year', order_date);
 - Indicates a potential business disruption (loss of key markets, operational issues, or data gaps).
 #### **Customer Growth vs. Quantity:**
 - Growth in customers correlated strongly with higher sales volumes, especially visible between 2012–2013.
-
 ### Recommendations & Next Steps
 - **Investigate 2013 Success Drivers**: Understand what fueled the spike (product launches, market entry, promotions). Replicate strategies.
 - **Address 2014 Drop**: Explore reasons for the sudden decline. If data is valid, this might suggest market saturation or churn.
 - **Leverage Seasonal/Yearly Trends**: Build demand forecasts for inventory & marketing planning.
 - **Customer Retention Programs**: With many new customers in 2013, focus on loyalty programs to retain them in following years.
-
 ### Skills Demonstrated
 - **SQL Querying**: Writing optimized queries with SUM(), COUNT(), ROUND(), and DATE_PART().
 - **Data Aggregation & Summarization**: Generating year-level KPIs like sales, customers, and quantities.
 - **Data Transformation**: Using CTEs (WITH clause) for cleaner, modular queries.
 - **Analytical Thinking**: Creating metrics like average sales per customer to derive business insights.
 - **Data Quality Handling**:  Filtering out NULL values in order_date to ensure valid results.
-
 ### Tools & Technologies
+- **SQL (PostgreSQL dialect)**:For querying and analyzing structured sales data.
+- **Database-PostgreSQL**: Assuming public."gold.fact_sales" is part of a database schema.
+- **BI/Analytics Layer (Optional)**: Results could be exported into Tableau for visualization.
+- **GitHub**: For version control and showcasing the SQL scripts.
