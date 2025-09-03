@@ -3,7 +3,7 @@
 --- 
 
 
-###  Project Description
+###  Project Overview
 This project analyzes **yearly sales performance** using SQL to uncover trends in revenue, customer growth, and product sales volume.
 
 
