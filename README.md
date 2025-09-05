@@ -8,7 +8,6 @@ This project analyzes **yearly sales performance** using SQL to uncover trends i
 The goal is to track key performance indicators (KPIs) such as **total sales, customer base, and quantity sold** over multiple years, providing insights for strategic business planning.
 
 ---
-
 ### Dataset Structure
 The analysis is based on a `fact_sales` table with the following structure:
 
